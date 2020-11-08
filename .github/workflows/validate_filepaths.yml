@@ -8,5 +8,7 @@ jobs:
       - uses: actions/setup-ruby@v1
         with:
           ruby-version: '2.7'
+      - name: Run tests for validation script
+        run: ruby -rminitest/autorun scripts/validate_filepaths.rb
       - name: validate filepaths
         run: ruby scripts/validate_filepaths.rb
