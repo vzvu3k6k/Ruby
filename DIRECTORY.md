@@ -35,6 +35,9 @@
   * Problem 5
     * [Problem5 Sol1](https://github.com/TheAlgorithms/Ruby/blob/master/project_euler/problem_5/problem5_sol1.rb)
 
+## Scripts
+  * [Validate Filepaths](https://github.com/TheAlgorithms/Ruby/blob/master/scripts/validate_filepaths.rb)
+
 ## Searches
   * [Binary Search](https://github.com/TheAlgorithms/Ruby/blob/master/searches/binary_search.rb)
   * [Depth First Search](https://github.com/TheAlgorithms/Ruby/blob/master/searches/depth_first_search.rb)
